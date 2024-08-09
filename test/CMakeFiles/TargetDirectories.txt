@@ -1,0 +1,4 @@
+/home/kpit/Desktop/Unit_testing/Practice/test/CMakeFiles/edit_cache.dir
+/home/kpit/Desktop/Unit_testing/Practice/test/CMakeFiles/test.dir
+/home/kpit/Desktop/Unit_testing/Practice/test/CMakeFiles/rebuild_cache.dir
+/home/kpit/Desktop/Unit_testing/Practice/test/CMakeFiles/test_my_code.dir

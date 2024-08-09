@@ -1,0 +1,28 @@
+Start testing: Aug 09 11:09 IST
+----------------------------------------------------------
+1/1 Testing: test_my_code
+1/1 Test: test_my_code
+Command: "/home/kpit/Desktop/Unit_testing/Practice/test/test_my_code"
+Directory: /home/kpit/Desktop/Unit_testing/Practice/test
+"test_my_code" start time: Aug 09 11:09 IST
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AdditionTest
+[ RUN      ] AdditionTest.PositiveNumbers
+[       OK ] AdditionTest.PositiveNumbers (0 ms)
+[----------] 1 test from AdditionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.32 sec
+----------------------------------------------------------
+Test Passed.
+"test_my_code" end time: Aug 09 11:09 IST
+"test_my_code" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 09 11:09 IST
